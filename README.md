@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jerome</h1>
-<h3 align="center">An All Round Programmer From Jamaica</h3>
+<h3 align="center">A Programmer/Tech Enthusiast From Jamaica</h3>
 <img align=center src="https://steamuserimages-a.akamaihd.net/ugc/945094571616867748/680E4979CC75A2310664E0883F3F3FC6CBECA3BE/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=legendjerry&label=Profile%20views&color=0e75b6&style=flat" alt="legendjerry" /> </p>
